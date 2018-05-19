@@ -1,0 +1,42 @@
+{"Gpu":[
+	{
+		"gpuId":"1",
+		"gpuName":"Vega 56",
+		"gpuHash":"2100",
+		"gpuSicaklik":"21 C",
+		"totalHash":"5600",
+		"miningPool":"nanopool"
+	},
+		{
+		"gpuId":"2",
+		"gpuName":"Vega64",
+		"gpuHash":"1800",
+		"gpuSicaklik":"21 C",
+		"totalHash":"5600",
+		"miningPool":"nanopool"
+	},
+	{
+		"gpuId":"1",
+		"gpuName":"Vega FE",
+		"gpuHash":"1900",
+		"gpuSicaklik":"21 C",
+		"totalHash":"5600",
+		"miningPool":"nanopool"
+	},
+	{
+		"gpuId":"1",
+		"gpuName":"Vega MSI",
+		"gpuHash":"1700",
+		"gpuSicaklik":"21 C",
+		"totalHash":"5600",
+		"miningPool":"xmrsupport"
+	},
+		{
+		"gpuId":"1",
+		"gpuName":"Vega",
+		"gpuHash":"1600",
+		"gpuSicaklik":"21 C",
+		"totalHash":"5600",
+		"miningPool":"nanopool"
+	}
+]}
